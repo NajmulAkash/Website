@@ -14,16 +14,17 @@ function Sidebar() {
         <h1 className='text-2xl text-white font-semibold px-4 py-4'>Najmul Akash</h1>
         <div className='w-full h-fit my-4'>
           <ul className='space-y-7  text-white px-4 '>
-            <li className='hover:bg-gray-500 text-xl cursor-pointer rounded flex'><MdDashboard className='text-4xl mx-2'/>Dashboard</li>
-            <li className='hover:bg-gray-500 text-xl cursor-pointer rounded flex '><TbPackageImport  className='text-4xl mx-2'/>packages</li>
-            <li className='hover:bg-gray-500 text-xl cursor-pointer rounded flex'><MdOutlineDashboardCustomize className='text-4xl mx-2 ' />Custom Packges</li>
-            <li className='hover:bg-gray-500 text-xl cursor-pointer rounded flex'><TbBrandBooking className='text-4xl mx-2' />Bookings</li>
-            <li className='hover:bg-gray-500 text-xl cursor-pointer rounded flex'><FaHotel className='text-4xl mx-2'/>Hotels</li>
-            <li className='hover:bg-gray-500 text-xl cursor-pointer rounded flex'><FaCar className='text-4xl mx-2'/>Cars</li>
-            <li className='hover:bg-gray-500 text-xl cursor-pointer flex rounded'><CiSettings  className='text-4xl mx-2'/>Setting</li>
+            <li className='hover:bg-gray-900 text-xl cursor-pointer rounded flex'><MdDashboard className='text-2xl mx-2'/>Dashboard</li>
+            <li className='hover:bg-gray-900 text-xl cursor-pointer rounded flex '><TbPackageImport  className='text-2xl mx-2'/>packages</li>
+            <li className='hover:bg-gray-900 text-xl cursor-pointer rounded flex'><MdOutlineDashboardCustomize className='text-2xl mx-2 ' />Custom Packges</li>
+            <li className='hover:bg-gray-900 text-xl cursor-pointer rounded flex'><TbBrandBooking className='text-2xl mx-2' />Bookings</li>
+            <li className='hover:bg-gray-900 text-xl cursor-pointer rounded flex'><FaHotel className='text-2xl mx-2'/>Hotels</li>
+            <li className='hover:bg-gray-900 text-xl cursor-pointer rounded flex'><FaCar className='text-2xl mx-2'/>Cars</li>
+            <li className='hover:bg-gray-900 text-xl cursor-pointer flex rounded'><CiSettings  className='text-2xl mx-2'/>Setting</li>
           </ul>
         </div>
       </div>
+      <div className='w-2/4 h-72  bg-red-500'></div>
     </div>
     </>
   )

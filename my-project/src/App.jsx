@@ -1,14 +1,13 @@
-import React from 'react'
-import Sidebar from './Projects/Sidebar'
-import Navbar from './Projects/Navbar'
+import Dashboard from "./Dashboard/Dashboard";
 
-function App() {
-  return (
-    <>
-    <Navbar/>
-     <Sidebar/>
-    </>
-  )
+function App(){
+
+return(
+
+<Dashboard/>
+
+)
+
 }
 
 export default App
