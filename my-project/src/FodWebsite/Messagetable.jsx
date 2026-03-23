@@ -26,11 +26,11 @@ Messages
 
 <tr>
 
-<td>Najmul Akash</td>
+<td>Najmul</td>
 
 <td>najmulbalghar@gmail.com</td>
 
-<td className="text-red-500 bg-orange-400">
+<td className="text-red-500">
 
 Unread
 

@@ -22,7 +22,7 @@ Admin Panel
 
 <ul className="space-y-2 p-4">
 
-<li className="flex gap-3 p-3 hover:bg-blue-950 rounded">
+<li className="flex gap-3 p-3 hover:bg-blue-950 rounded cursor-pointer">
 
 <FaHome/>
 
@@ -30,7 +30,7 @@ Dashboard
 
 </li>
 
-<li className="flex gap-3 p-3 hover:bg-blue-950 rounded">
+<li className="flex gap-3 p-3 hover:bg-blue-950 rounded cursor-pointer">
 
 <FaBox/>
 
@@ -39,7 +39,7 @@ Packages
 </li>
 
 
-<li className="flex gap-3 p-3 hover:bg-blue-950 rounded">
+<li className="flex gap-3 p-3 hover:bg-blue-950 rounded cursor-pointer">
 
 <FaHotel/>
 
@@ -48,7 +48,7 @@ Hotels
 </li>
 
 
-<li className="flex gap-3 p-3 hover:bg-blue-950 rounded">
+<li className="flex gap-3 p-3 hover:bg-blue-950 rounded cursor-pointer">
 
 <FaCar/>
 
@@ -57,7 +57,7 @@ Cars
 </li>
 
 
-<li className="flex gap-3 p-3 hover:bg-blue-950 rounded">
+<li className="flex gap-3 p-3 hover:bg-blue-950 rounded cursor-pointer">
 
 <FaUsers/>
 
@@ -66,7 +66,7 @@ Users
 </li>
 
 
-<li className="flex gap-3 p-3 hover:bg-blue-950 rounded">
+<li className="flex gap-3 p-3 hover:bg-blue-950 rounded cursor-pointer">
 
 <FaCog/>
 
