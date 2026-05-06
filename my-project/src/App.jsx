@@ -1,16 +1,10 @@
-// import Navbar from './Panoote Web/Navbar'
-// import Card from './Dashboard/Card'
-import HTTP from "./Node JS/Http"
+import Form from "./Task/Form"
 
-// import Navbar from './Dashboard/Navbar'
 function App(){
-return(
+  return(
     <>
-    {/* <Navbar/>
-    <Card/>
-    <Navbar/> */}
-    <HTTP/>
+    <Form/>
     </>
-)
+  )
 }
 export default App
